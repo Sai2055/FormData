@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.users-table {
+  padding-left: 20px;
+}
+td.users-tableData {
+  padding-left: 29px;
+  border-bottom: 1px solid;
+}
